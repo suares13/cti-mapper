@@ -79,7 +79,7 @@ Ferramenta desenvolvida 100% em Python padrão, sem necessidade de dependências
    ```
 3. Execute a ferramenta:
    ```bash
-   python cti_mapper.py
+   python cti.py
    ```
 
 ---
